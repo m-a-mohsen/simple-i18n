@@ -1,0 +1,25 @@
+{
+  "h1": "مثال بسيط",
+  "change-locale": "\"{{changeTo}}\"تغيير اللغة إلى ",
+  "to-second-page": "إلى الصفحة الثانية",
+  "error-with-status": "أ {{statusCode}} حدث خطأ على الخادم",
+  "error-without-status": "حدث خطأ على الخادم",
+  "title": "الصفحة الرئيسية | ",
+  "blog": {
+    "appDir": {
+      "question": "Next.js 13/14 هل تستخدم دليل تطبيق الجديد؟",
+      "answer": "ثم تحقق <1>هذا بلوق وظيفة</1>.",
+      "link": "https://locize.com/blog/next-app-dir-i18n/"
+    },
+    "optimized": {
+      "question": "هل ترغب في إطلاق العنان لبعض القوى العظمى للحصول على ترجمات محسنة لجميع الجوانب؟",
+      "answer": "ثم يمكنك إلقاء نظرة على <1>هذا بلوق وظيفة</1>.",
+      "link": "https://locize.com/blog/next-i18next/"
+    },
+    "ssg": {
+      "question": "هل تريد استخدام SSG (التصدير التالي)؟",
+      "answer": "ثم يمكنك إلقاء نظرة على <1>هذا بلوق وظيفة</1>.",
+      "link": "https://locize.com/blog/next-i18n-static/"
+    }
+  }
+}
